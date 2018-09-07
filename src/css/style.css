@@ -1,0 +1,9 @@
+.preLeft {
+    text-align: left
+}
+
+.preLeft a {
+    color: green;
+    text-decoration: none;
+    font: 16px/24px '苹方';
+}
